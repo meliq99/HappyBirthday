@@ -1,7 +1,7 @@
 import qrcode
 from PIL import Image
 
-x = "https://youtu.be/NCzgzO1y7yQ"  # the url video
+x = "https://youtu.be/NCzgzO1y7yQ"  # the URL video of what you want 
 print("The QRcode is saved!: ", x)
 
 
